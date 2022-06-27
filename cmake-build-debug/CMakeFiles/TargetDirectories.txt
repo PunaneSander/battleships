@@ -1,0 +1,3 @@
+C:/Users/sande/Desktop/Schoolwork/III Semester/Programmeerimine C-keeles ja Assembleris/Projekt/cmake-build-debug/CMakeFiles/Projekt.dir
+C:/Users/sande/Desktop/Schoolwork/III Semester/Programmeerimine C-keeles ja Assembleris/Projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sande/Desktop/Schoolwork/III Semester/Programmeerimine C-keeles ja Assembleris/Projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
