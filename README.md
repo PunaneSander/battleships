@@ -1,2 +1,3 @@
 # battleships
-Commandline Battleship with singleplayer mode, made with C
+Commandline Battleship game with singleplayer mode, made with C
+A student project
